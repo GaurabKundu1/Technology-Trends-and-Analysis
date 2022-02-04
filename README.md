@@ -24,10 +24,49 @@ Training portals
 
 Surveys
 
-Once we have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
+Once I have collected enough data, I will begin analyzing the data and identify insights and trends that may include the following:
 
 What are the top programming languages in demand?
 
 What are the top database skills in demand?
 
 What are the popular IDEs?
+
+# Outline 
+
+|       SL. NO        |                                    Outline                                      |
+| :-----------------: | :-----------------------------------------------------------------------------: |
+|          1          |                               Executive Summary                                 |
+|          2          |                                   Introduction                                  |
+|          3          |                                   Objective                                     |
+|          4          |                       Hardware and Software Requirments                         |
+|          5          |                                  Methodology                                    |
+|          6          |                  Insights Drawn from Exploratory Data Analysis                  |
+|          7          |                        Launch Sites Proximities Analysis                        |
+|          8          |                       Build A Dashboard with Plotly Dash                        |
+|          9          |                       Predictive Analysis (Classification)                      |
+|          10         |                                  Conclusion                                     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
