@@ -41,11 +41,11 @@ What are the popular IDEs?
 |          3          |                                   Objective                                     |
 |          4          |                       Hardware and Software Requirments                         |
 |          5          |                                  Methodology                                    |
-|          6          |                  Insights Drawn from Exploratory Data Analysis                  |
-|          7          |                        Launch Sites Proximities Analysis                        |
-|          8          |                       Build A Dashboard with Plotly Dash                        |
-|          9          |                       Predictive Analysis (Classification)                      |
-|          10         |                                  Conclusion                                     |
+|          6          |                                    Results                                      |
+|          7          |                                  Discussion                                     |
+|          8          |                                  Conclusion                                     |
+|          9          |                                   Appendix                                      |
+
 
 
 
