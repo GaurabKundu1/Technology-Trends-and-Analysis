@@ -11,3 +11,23 @@
 <p align='center'> 
 <img src="https://user-images.githubusercontent.com/86102231/152484406-abfb4545-8653-4e4f-90cd-d37dc5b1399c.png" width= "200" height= "200"> 
 </p>
+
+# Project Description
+
+As a Data Analyst, I have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills.
+
+My first task is to collect the top programming skills that are most in demand from various sources including:
+
+Job postings
+
+Training portals
+
+Surveys
+
+Once we have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following:
+
+What are the top programming languages in demand?
+
+What are the top database skills in demand?
+
+What are the popular IDEs?
