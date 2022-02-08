@@ -165,9 +165,60 @@ To see the code and step by step process of Exploratory Data Visualization [clic
 
 1. Web development are still in high demand.
 
-2. Big Data technology in companies still requires SQL
+2. Big Data technology in companies still requires SQL.
 
-3. With AI and ML in rising demand, Python is best choice
+3. With AI and ML in rising demand, Python is best choice.
+
+## Database Trends 
+
+![Screenshot (233)](https://user-images.githubusercontent.com/86102231/152949155-5d3c17f1-f392-4b58-88da-6a4a27180cce.png)
+
+## Database Trends - Findings & Implications
+
+### Findings
+
+1. MySQL is most popular.
+
+2. Behind is Microsoft SQL.
+
+3. MongoDB and Redis are upcoming favorites.
+
+4. New kid on the block: Elasticsearch.
+
+### Implications
+
+1. Open-source databases are still preferable in companies.
+
+2. NoSQL databases will make an impact for storing non-relational data.
+
+3. Redis supports abstract data types.
+
+4. Pre-tuned search to website, app, or ecommerce store.
+
+### IBM Cognos Dashboard Link
+
+[Dashboard](https://dataplatform.cloud.ibm.com/dashboards/71f05cf2-51d4-4005-8bdb 67f4279f16b0/view/4364b81f39e9239610f5dce407992a0e2b622c5fb6bbd20380d47b490e357297a86045c2c82b1d08dc435637f4ba410ccf)
+
+### Current Technology usage Dasboard
+
+![Screenshot (234)](https://user-images.githubusercontent.com/86102231/152950650-39ed8b7d-56e8-41c1-be5c-18a04fce1bfa.png)
+
+### Future Technology trend Dasboard
+
+![Screenshot (235)](https://user-images.githubusercontent.com/86102231/152950669-79585a78-f30e-4c21-97fc-24fc7039f921.png)
+
+### Demographics Dashboard
+
+![Screenshot (236)](https://user-images.githubusercontent.com/86102231/152950681-a84c456f-5a94-4430-a26e-a7be9b283699.png)
+
+
+
+
+
+
+
+
+
 
 
 
