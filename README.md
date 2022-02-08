@@ -36,7 +36,7 @@ What are the popular IDEs?
 
 |       SL. NO        |                                    Outline                                      |
 | :-----------------: | :-----------------------------------------------------------------------------: |
-|          1          |                               Executive Summary                                 |
+|          1          |                               [Executive Summary](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/README.md#exevutive-summary)                                 |
 |          2          |                                   Introduction                                  |
 |          3          |                                   Objective                                     |
 |          4          |                       Hardware and Software Requirments                         |
@@ -58,6 +58,8 @@ This Project will give you an overview of :
 3. Technological gap in countries
 
 4. Gender gap in jobs
+
+# Introduction
 
 
 
