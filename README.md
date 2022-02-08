@@ -211,7 +211,17 @@ To see the code and step by step process of Exploratory Data Visualization [clic
 
 ![Screenshot (236)](https://user-images.githubusercontent.com/86102231/152950681-a84c456f-5a94-4430-a26e-a7be9b283699.png)
 
+# Discussion
 
+Technology Trends now and future
+
+Training and Reskilling workers
+
+Females participation in Technology field
+
+Bridge divide of technology gaps in developing countries
+
+Eliminate age and education discrimination in employment
 
 
 
