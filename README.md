@@ -107,6 +107,21 @@ Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFram
 
 # Methodology
 
+## Data Collection
+
+The Data was collected from:
+
+Stack Overflow Developer 2019 Survey
+
+GitHub Job Postings
+
+Programming Languages Annual Salary
+
+The used Data Sets are:
+
+[DataSet1](https://drive.google.com/file/d/1pEVVpsvhZZKyNjLP6S8w1M8TserjjDWU/view?usp=sharing) which contains information about the IT professionals.
+
+[DataSet2](https://drive.google.com/file/d/1XfVYrkYPVgV7rLT8BJDLoO66evm86NEJ/view?usp=sharing) which contains information about trending technologies and programming languages.  
 
 
 
