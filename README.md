@@ -71,7 +71,27 @@ What are the top database skills in demand?
 
 What are the popular IDEs?
 
+# Objective
 
+## Background
+
+Analyzing the trends in software development.
+
+## Purpose
+
+Identify skill requirements for future.
+
+## Question for Analysis
+
+What are the top programming languages in demand?
+
+What are the top database skills in demand?
+
+What are the popular IDEs?
+
+## Audience
+
+Human Resource and IT Head.
 
 
 
