@@ -140,6 +140,11 @@ To see the code and step by step process of Exploratory Data Analysis [click her
 
 To see the code and step by step process of Exploratory Data Visualization [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/M4DataVisualization-lab.ipynb)
 
+# Results
+
+Results are based on this table:
+
+![Screenshot (230)](https://user-images.githubusercontent.com/86102231/152947192-f180d10c-8a4c-4274-9312-b88fe21eab6f.png)
 
 
 
