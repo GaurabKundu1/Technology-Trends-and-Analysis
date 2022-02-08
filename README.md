@@ -61,7 +61,15 @@ This Project will give you an overview of :
 
 # Introduction
 
+As a Data Analyst, I have been tasked with collecting data from various sources and identifying trends for this year's report on emerging skills. My first task is to collect the top programming skills that are most in demand from various sources including: Job postings,Training portals,Surveys.
 
+Once I have collected enough data, I will begin analyzing the data and identify insights and trends that may include the following:
+
+What are the top programming languages in demand?
+
+What are the top database skills in demand?
+
+What are the popular IDEs?
 
 
 
