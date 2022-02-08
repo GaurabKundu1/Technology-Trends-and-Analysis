@@ -248,7 +248,7 @@ Eliminate age and education discrimination in employment
 
 # Conclusion
 
-
+From this project we have known the Technology Trends for current and next year, Programming Languages, Database and Platform overview. We have got an overview of Demographics. What are the actions to be taken. And we came to know that In future, we can use incorporate Machine Learning to predict trends and salaries
 
 
 
