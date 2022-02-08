@@ -87,7 +87,25 @@ What are the popular IDEs?
 
 Human Resource and IT Head.
 
+# Hardware and Software Requirments
 
+## Hardware
+
+In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a RAM of 8 GB and decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data.
+
+## Software
+
+We are going to use IBM Watson Studio for this project.
+
+In case of local machine We are going to use the following softwares in this project :
+
+Programming Language : [Python](https://www.python.org/)
+
+IDE : [Jupyter Notebook](https://jupyter.org/)
+
+Packages : [Pandas](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html), [Numpy](https://numpy.org/), [Scipy](https://scipy.org/), [Scikit-learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), [BeautifulSoop](https://pypi.org/project/beautifulsoup4/).
+
+# Methodology
 
 
 
