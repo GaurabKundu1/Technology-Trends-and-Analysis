@@ -47,7 +47,17 @@ What are the popular IDEs?
 |          9          |                                   Appendix                                      |
 
 
+# Exevutive Summary
 
+This Project will give you an overview of :
+
+1. Trends in programming languages and databases
+
+2. Demographics survey
+
+3. Technological gap in countries
+
+4. Gender gap in jobs
 
 
 
