@@ -252,6 +252,19 @@ From this project we have known the Technology Trends for current and next year,
 
 # Appendix
 
+![Screenshot (237)](https://user-images.githubusercontent.com/86102231/152953736-af89acfd-3f15-48a7-b1e1-604c6b7737ce.png)
+
+## GitHub Job postings
+
+![Screenshot (238)](https://user-images.githubusercontent.com/86102231/152953748-258ac9ea-ce74-4204-809a-fc3c3b63222d.png)
+
+## Popular Languages by salary
+
+![Screenshot (239)](https://user-images.githubusercontent.com/86102231/152953757-5cce62da-6459-49e7-b80a-183b0b624f83.png)
+
+
+
+
 
 
 
