@@ -161,8 +161,13 @@ To see the code and step by step process of Exploratory Data Visualization [clic
 
 3. PowerShell edged out in next year.
 
+### Implications
 
+1. Web development are still in high demand.
 
+2. Big Data technology in companies still requires SQL
+
+3. With AI and ML in rising demand, Python is best choice
 
 
 
