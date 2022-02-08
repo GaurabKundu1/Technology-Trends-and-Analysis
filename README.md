@@ -197,7 +197,7 @@ To see the code and step by step process of Exploratory Data Visualization [clic
 
 ### IBM Cognos Dashboard Link
 
-[Dashboard](https://dataplatform.cloud.ibm.com/dashboards/71f05cf2-51d4-4005-8bdb 67f4279f16b0/view/4364b81f39e9239610f5dce407992a0e2b622c5fb6bbd20380d47b490e357297a86045c2c82b1d08dc435637f4ba410ccf)
+[Dashboard](https://dataplatform.cloud.ibm.com/dashboards/71f05cf2-51d4-4005-8bdb-67f4279f16b0/view/4364b81f39e9239610f5dce407992a0e2b622c5fb6bbd20380d47b490e357297a86045c2c82b1d08dc435637f4ba410ccf)
 
 ### Current Technology usage Dasboard
 
