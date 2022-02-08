@@ -223,10 +223,30 @@ Bridge divide of technology gaps in developing countries
 
 Eliminate age and education discrimination in employment
 
+## Ovearall Findings and Implications
+
+### Findings
+
+1. Fast changing technology every year.
+
+2. Concentration on several countries like USA and India.
+
+3. Gender gap in technology jobs.
+
+4. Platforms like Docker and AWS are growing.
+
+### Implications
+
+1. Companies need to be flexible and adjust to rapid changes.
+
+2. Need to spread technology out to lagging countries.
+
+3. Impact on job hiring’s.
+
+4. Shift to faster app deployments and cloud services in future.
 
 
-
-
+# Conclusion
 
 
 
