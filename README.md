@@ -44,7 +44,7 @@ What are the popular IDEs?
 |          6          |                                    [Results](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/README.md#results)                                      |
 |          7          |                                  [Discussion](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/README.md#discussion)                                     |
 |          8          |                                  [Conclusion](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/README.md#conclusion)                                     |
-|          9          |                                   Appendix                                      |
+|          9          |                                   [Appendix](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/README.md#appendix)                                      |
 
 
 # Exevutive Summary
