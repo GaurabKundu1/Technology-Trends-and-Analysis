@@ -142,11 +142,24 @@ To see the code and step by step process of Exploratory Data Visualization [clic
 
 # Results
 
-Results are based on this table:
+## Results are based on this table
 
 ![Screenshot (230)](https://user-images.githubusercontent.com/86102231/152947192-f180d10c-8a4c-4274-9312-b88fe21eab6f.png)
 
+## Programming Language Trends 
 
+![Screenshot (231)](https://user-images.githubusercontent.com/86102231/152947682-e802a2ef-168f-4289-b529-2aa6ad51e853.png)
+
+
+## Programming Language Trends - Findings & Implications
+
+### Findings 
+
+1. JavaScript, HTML/CSS, SQL are top 3 this year.
+
+2. Python and Typescript becoming popular next year.
+
+3. PowerShell edged out in next year.
 
 
 
