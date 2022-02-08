@@ -122,6 +122,24 @@ The used Data Sets are:
 [DataSet1](https://drive.google.com/file/d/1pEVVpsvhZZKyNjLP6S8w1M8TserjjDWU/view?usp=sharing) which contains information about the IT professionals.
 
 [DataSet2](https://drive.google.com/file/d/1XfVYrkYPVgV7rLT8BJDLoO66evm86NEJ/view?usp=sharing) which contains information about trending technologies and programming languages.  
+To see the code and step by step process of Data Collection [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/Collecting_Jobs_data_Using_API-Questions.ipynb)
+
+## Data Exploration
+
+To see the code and step by step process of Data Exploration [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/M1ExploreDataSet-lab.ipynb)
+
+## Data Wrangling
+ 
+To see the code and step by step process of Data Wrangling [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/M2DataWrangling-lab.ipynb)
+
+## Exploratory Data Analysis
+
+To see the code and step by step process of Exploratory Data Analysis [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/M3ExploratoryDataAnalysis-lab.ipynb)
+
+## Data Visualization
+
+To see the code and step by step process of Exploratory Data Visualization [click here](https://github.com/GaurabKundu1/IBM-Data-Analyst-Professional-Certificate-Capstone-Project-Technology-Trends-and-Analysis/blob/main/M4DataVisualization-lab.ipynb)
+
 
 
 
