@@ -4,7 +4,7 @@
 
 ### Date: 03 rd of February 2022
 
-
+## Author : [GAURAB KUNDU](https://www.linkedin.com/in/gaurab-kundu-020803) 
 
 ### This Project is the Data Analyst Capstone Project of the IBM Data Analyst Professional Certificate
 
