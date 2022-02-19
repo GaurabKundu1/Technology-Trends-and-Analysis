@@ -2,8 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/86102231/152484018-6eb68d01-6418-4819-8f1e-c5bbee886bd7.gif" width="1200" height="500">
 
-### Date: 03 rd of February 2022
-
 ## Author : [GAURAB KUNDU](https://www.linkedin.com/in/gaurab-kundu-020803) 
 
 ### This Project is the Data Analyst Capstone Project of the IBM Data Analyst Professional Certificate
