@@ -89,7 +89,7 @@ Human Resource and IT Head.
 
 ## Hardware
 
-In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a RAM of 8 GB and decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data.
+In this Project We are going to use IBM Cloud Pack for Data and its various Web services, so a decent Internet Connection is required only. All the hardware requirments will be covered by IBM Cloud Pack for Data.
 
 ## Software
 
